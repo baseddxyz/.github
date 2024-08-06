@@ -1,4 +1,4 @@
-# WELCOME TO *THE BASEDD COMPANY*
+# WELCOME TO *THE* [*BASEDD*](https://baseddxyz.github.io) *COMPANY*
 
 <p align="center">
   <picture>
