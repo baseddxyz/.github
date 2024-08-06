@@ -10,4 +10,5 @@
 
 We want to improve everyone's life through innovation.
 
-"BE VERY DIFFERENT"
+## MOTTO
+> "BE VERY DIFFERENT"
