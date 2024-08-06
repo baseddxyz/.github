@@ -1,3 +1,5 @@
 # WELCOME TO *THE BASEDD COMPANY*
 
+---
+
 ### SINCE 2024
